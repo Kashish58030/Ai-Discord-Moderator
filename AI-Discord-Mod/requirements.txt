@@ -1,0 +1,7 @@
+discord
+python-dotenv
+asyncio
+pillow
+openai
+torch
+transformers
